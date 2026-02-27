@@ -1,7 +1,7 @@
-# 💀 lutfifakee1337
+# 💀 LutfifakeeXone
 
 <p align="center">
-  <img src="https://github.com/lutfifakee1337/lutfifakee1337/blob/main/lutfifakee-icon.png?raw=true" alt="lutfifakee1337 Banner" width="680" height="480"/>
+  <img src="https://github.com/LutfifakeeXone/LutfifakeeXone/blob/main/lutfifakee-icon.png?raw=true" alt="LutfifakeeXone Banner" width="680" height="480"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Penetration+Tester;Ethical+Hacker;Security+Researcher;Code+Architect;Hardware+Programmer;Polyglot+Developer" alt="Typing SVG" />
 </p>
@@ -12,15 +12,15 @@
 
 ```bash
 > sudo whoami
-lutfifakee1337@root:~$ lutfifakee1337
+LutfifakeeXone@root:~$ LutfifakeeXone
 ```
 
 ```nim
-let identity = "lutfifakee1337"
+let identity = "LutfifakeeXone"
 echo "Hello, world! I'm ", identity, " - a digital ghost roaming the halls of cyberspace."
 ```
 
-Hello, world! I'm **lutfifakee1337** a digital ghost roaming the halls of cyberspace. By day, I'm a developer crafting code with precision and elegance; by night, I transform into a penetration tester hunting for vulnerabilities in systems.
+Hello, world! I'm **LutfifakeeXone** a digital ghost roaming the halls of cyberspace. By day, I'm a developer crafting code with precision and elegance; by night, I transform into a penetration tester hunting for vulnerabilities in systems.
 
 My mission? Making the digital world a safer place, **one vulnerability at a time**. Since 2018, I've been immersed in the world of cybersecurity navigating firewalls, understanding protocol languages, and ethically uncovering system weaknesses.
 
@@ -138,16 +138,16 @@ graph LR
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lutfifakee1337&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfifakee1337&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LutfifakeeXone&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LutfifakeeXone&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lutfifakee1337&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LutfifakeeXone&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfifakee1337&theme=radical&hide_border=true&layout=donut&langs_count=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LutfifakeeXone&theme=radical&hide_border=true&layout=donut&langs_count=10" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -167,23 +167,8 @@ graph LR
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/lutfifakee1337" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/lutfifakee1337" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/lutfifakee1337" target="_blank">
+  <a href="https://github.com/LutfifakeeXone" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:lutfifakee1337@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://hackthebox.com/profile/lutfifakee1337">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-  <a href="https://tryhackme.com/p/lutfifakee1337">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
@@ -193,11 +178,11 @@ graph LR
 
 | Project | Description | Stars | Tech Stack |
 |---------|-------------|-------|------------|
-| [VulnScanner](https://github.com/lutfifakee1337/vulnscanner) | Automated vulnerability scanner with ML | ⭐ 245 | Python, Nmap, TensorFlow |
-| [WebCrawlerX](https://github.com/lutfifakee1337/webcrawlerx) | Advanced web crawling & enumeration | ⭐ 189 | Python, Selenium, BeautifulSoup |
-| [NetMonitor](https://github.com/lutfifakee1337/netmonitor) | Real-time network monitoring & IDS | ⭐ 156 | C++, Wireshark, TCPDump |
-| [SQLMapPro](https://github.com/lutfifakee1337/sqlmappro) | Automated SQL injection tool | ⭐ 312 | Python, PHP, MySQL |
-| [HashCracker](https://github.com/lutfifakee1337/hashcracker) | Multi-algorithm hash cracker | ⭐ 98 | C, OpenCL, Assembly |
+| [VulnScanner](https://github.com/LutfifakeeXone/vulnscanner) | Automated vulnerability scanner with ML | ⭐ 245 | Python, Nmap, TensorFlow |
+| [WebCrawlerX](https://github.com/LutfifakeeXone/webcrawlerx) | Advanced web crawling & enumeration | ⭐ 189 | Python, Selenium, BeautifulSoup |
+| [NetMonitor](https://github.com/LutfifakeeXone/netmonitor) | Real-time network monitoring & IDS | ⭐ 156 | C++, Wireshark, TCPDump |
+| [SQLMapPro](https://github.com/LutfifakeeXone/sqlmappro) | Automated SQL injection tool | ⭐ 312 | Python, PHP, MySQL |
+| [HashCracker](https://github.com/LutfifakeeXone/hashcracker) | Multi-algorithm hash cracker | ⭐ 98 | C, OpenCL, Assembly |
 
 ---
 
@@ -244,16 +229,13 @@ Building custom mechanical keyboards
 
 ```bash
 # Check out my activity
-$ curl -s https://api.github.com/users/lutfifakee1337/events | jq '.[].type'
-
-# Hire me (maybe?)
-$ echo "lutfifakee1337@protonmail.com" | base64 -d
+$ curl -s https://api.github.com/users/LutfifakeeXone/events | jq '.[].type'
 ```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lutfifakee1337&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LutfifakeeXone&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -265,7 +247,7 @@ $ echo "lutfifakee1337@protonmail.com" | base64 -d
 </p>
 
 <p align="center">
-  <img src="https://github.com/lutfifakee1337/lutfifakee1337/raw/refs/heads/main/snake.svg" alt="lutfifakee1337 | Snake animation" />
+  <img src="https://github.com/LutfifakeeXone/LutfifakeeXone/raw/refs/heads/main/snake.svg" alt="LutfifakeeXone | Snake animation" />
 </p>
 
 <p align="center">
