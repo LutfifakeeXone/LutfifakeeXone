@@ -138,7 +138,6 @@ graph LR
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LutfifakeeXone&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LutfifakeeXone&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -209,18 +208,6 @@ Drinking coffee (lots of it!) - Fuel for late-night sessions
 Reverse engineering old video games for fun
 Building custom mechanical keyboards
 ```
-
----
-
-## Currently Vibing To
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  </a>
-</p>
-
----
 
 ## Terminal Fun
 
