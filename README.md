@@ -146,9 +146,6 @@ graph LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LutfifakeeXone&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LutfifakeeXone&theme=radical&hide_border=true&layout=donut&langs_count=10" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
