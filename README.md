@@ -1,4 +1,4 @@
-# 💀 LutfifakeeXone
+# LutfifakeeXone
 
 <p align="center">
   <img src="https://github.com/LutfifakeeXone/LutfifakeeXone/blob/main/lutfifakee-icon.png?raw=true" alt="LutfifakeeXone Banner" width="680" height="480"/>
